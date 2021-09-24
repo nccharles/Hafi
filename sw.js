@@ -1,4 +1,4 @@
-const cachNameToKeep="hafi#v15";
+const cachNameToKeep="hafi#v16";
 const contentToCache = [
   './',
   './img/144.png',
